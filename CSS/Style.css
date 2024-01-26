@@ -211,6 +211,11 @@ a {
 
 }
 
+.project-sections-title {
+justifiy-content: center;
+align-content: center;
+}
+
 /* .projects {
   width: 90%;
   margin: auto;
