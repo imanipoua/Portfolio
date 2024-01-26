@@ -146,6 +146,10 @@ a {
   margin: auto;
 }
 
+.skills {
+margin-bottom: 40px;
+}
+
 .skill-row {
   width: 50%;
   margin: 200px auto 200px auto;
@@ -207,7 +211,7 @@ a {
   margin: auto;
   padding-left: 25px;
   padding-right: 25px;
-  margin-bottom: 30px;
+  margin-bottom: 50px;
 
 }
 
